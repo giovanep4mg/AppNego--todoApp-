@@ -1,0 +1,18 @@
+-classpath 'C:\\Users\\giova\\Documents\\NetBeansProjects\\appnego01\\build\\classes\\java\\main;C:\\Users\\giova\\Documents\\NetBeansProjects\\appnego01\\build\\resources\\main;C:\\Users\\giova\\.gradle\\caches\\modules-2\\files-2.1\\com.mysql\\mysql-connector-j\\8.0.31\\3fd5850719d7e82d50705d34cc6a0037fab5731f\\mysql-connector-j-8.0.31.jar;C:\\Users\\giova\\.gradle\\caches\\modules-2\\files-2.1\\com.google.protobuf\\protobuf-java\\3.19.4\\748e4e0b9e4fa6b9b1fe65690aa04a9db56cfc4d\\protobuf-java-3.19.4.jar'
+-d 'C:\\Users\\giova\\Documents\\NetBeansProjects\\appnego01\\build\\docs\\javadoc'
+-doctitle 'appnego01 API'
+-notimestamp 
+-quiet 
+-windowtitle 'appnego01 API'
+'C:\\Users\\giova\\Documents\\NetBeansProjects\\appnego01\\src\\main\\java\\appnego01\\Main.java'
+'C:\\Users\\giova\\Documents\\NetBeansProjects\\appnego01\\src\\main\\java\\Controller\\ProjectController.java'
+'C:\\Users\\giova\\Documents\\NetBeansProjects\\appnego01\\src\\main\\java\\Controller\\TaskController.java'
+'C:\\Users\\giova\\Documents\\NetBeansProjects\\appnego01\\src\\main\\java\\Model\\Project.java'
+'C:\\Users\\giova\\Documents\\NetBeansProjects\\appnego01\\src\\main\\java\\Model\\Task.java'
+'C:\\Users\\giova\\Documents\\NetBeansProjects\\appnego01\\src\\main\\java\\Util\\ButtonColumnCellReder.java'
+'C:\\Users\\giova\\Documents\\NetBeansProjects\\appnego01\\src\\main\\java\\Util\\ConnectionFactory.java'
+'C:\\Users\\giova\\Documents\\NetBeansProjects\\appnego01\\src\\main\\java\\Util\\DeadlineColumnCellRender.java'
+'C:\\Users\\giova\\Documents\\NetBeansProjects\\appnego01\\src\\main\\java\\Util\\TaskTableModel.java'
+'C:\\Users\\giova\\Documents\\NetBeansProjects\\appnego01\\src\\main\\java\\View\\MainScreen.java'
+'C:\\Users\\giova\\Documents\\NetBeansProjects\\appnego01\\src\\main\\java\\View\\ProjectDialogonSkin.java'
+'C:\\Users\\giova\\Documents\\NetBeansProjects\\appnego01\\src\\main\\java\\View\\TaskDialogonSkin.java'
